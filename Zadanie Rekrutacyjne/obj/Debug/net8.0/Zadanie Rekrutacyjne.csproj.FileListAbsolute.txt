@@ -1,0 +1,7 @@
+C:\Users\3rysl\source\repos\Zadanie Rekrutacyjne\Zadanie Rekrutacyjne\obj\Debug\net8.0\Zadanie Rekrutacyjne.csproj.AssemblyReference.cache
+C:\Users\3rysl\source\repos\Zadanie Rekrutacyjne\Zadanie Rekrutacyjne\obj\Debug\net8.0\Zadanie Rekrutacyjne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3rysl\source\repos\Zadanie Rekrutacyjne\Zadanie Rekrutacyjne\obj\Debug\net8.0\Zadanie Rekrutacyjne.AssemblyInfoInputs.cache
+C:\Users\3rysl\source\repos\Zadanie Rekrutacyjne\Zadanie Rekrutacyjne\obj\Debug\net8.0\Zadanie Rekrutacyjne.AssemblyInfo.cs
+C:\Users\3rysl\source\repos\Zadanie Rekrutacyjne\Zadanie Rekrutacyjne\obj\Debug\net8.0\Zadanie Rekrutacyjne.csproj.CoreCompileInputs.cache
+C:\Users\3rysl\source\repos\Zadanie Rekrutacyjne\Zadanie Rekrutacyjne\obj\Debug\net8.0\Zadanie Rekrutacyjne.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\3rysl\source\repos\Zadanie Rekrutacyjne\Zadanie Rekrutacyjne\obj\Debug\net8.0\Zadanie Rekrutacyjne.MvcApplicationPartsAssemblyInfo.cache
